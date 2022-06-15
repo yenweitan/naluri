@@ -37,3 +37,4 @@ calculation
 
 3. Rooms for improvement
 * Venture into visualizing the calculation of pi in the future (d3js perhaps), but first attempt is prioritizing functionality first.
+* integrate simple methods of testing on the pi/circumference calculation

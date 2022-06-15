@@ -27,8 +27,8 @@ calculation
 
 # Instructions to start the application
 1. Clone repository
-    a. Backend: cd backend, npm install, node index.js
-    b. Frontend: cd frontend, npm install, npm start
+- Backend: cd backend, npm install, node index.js
+- Frontend: cd frontend, npm install, npm start
 
 # Post challenge completion thoughts
 1. Limitation with using math.PI as the reference PI comparision value (3.141592653589793), which limits accuracy on increasing decimal points. A potential idea perhaps is having a constant file that contains the full pi value with better accuracy being used for accuracy comparisons perhaps
